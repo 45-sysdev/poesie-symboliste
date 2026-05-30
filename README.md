@@ -2,4 +2,6 @@
 
   - *Charles Baudelaire*
 
+  - *Paul Valéry*
+
 
